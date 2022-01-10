@@ -1,2 +1,9 @@
-packages/*
+packages
+
+!packages/hadoop-3.3.1
+packages/hadoop-3.3.1
 !packages/hadoop-3.3.1/etc
+
+!packages/spark-3.2.0-bin-hadoop3.2
+packages/spark-3.2.0-bin-hadoop3.2
+!packages/spark-3.2.0-bin-hadoop3.2/conf
